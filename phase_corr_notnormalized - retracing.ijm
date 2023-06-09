@@ -1,7 +1,7 @@
 // "phase correlation
 setBatchMode(true);
 size=128;
-path = "\\\\nas_rdapp\\Vyvoj_aplikaci\\nas.vaclav.ondracka\\Tomo data\\121-0297\\ultimate ruler measurement rocking\\Dataset 1\\Mid-Angle BSE+In-Beam f-BSE\\";
+path = "\\Dataset 1\\";
 ini = "0010";
 name1 = "slice-"+ini+".png";
 
